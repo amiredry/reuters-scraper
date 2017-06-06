@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items><story><date>11:14 02 January 2007 (UTC)</date><text> CHICAGO, Jan 2 The following are daily
+statistics on U.S. individual and index equity options traded
+on the Chicago Board Options Exchange.
+Total Put/Call Ratio          0.88
+Index Put/Call Ratio          2.06
+Equity Put/Call Ratio         0.52
+BXR - CBOE Russell 2000 BuyWrite Index             Open         High           Low         Close            162.17       162.35        161.12        161.27
+BXY - CBOE S&amp;P 500 2% OTM BuyWrite Index             Open         High           Low         Close            941.72       944.33        937.85        938.85
+BXN - CBOE NASDAQ-100 BuyWrite Index             Open         High           Low         Close            334.88       337.46        334.32        334.64
+BXD - CBOE DJIA BuyWrite Index             Open         High           Low         Close            186.99       187.37        186.75        186.87
+BXM - CBOE S&amp;P 500 BuyWrite Index             Open         High           Low         Close            801.81       803.34        799.32        800.16
+RVX - CBOE Russell 2000 Volatility Index             Open         High           Low         Close             17.18        17.75         16.79         17.72
+VXD - CBOE DJIA Volatility Index             Open         High           Low         Close             10.75         11.1         10.34         11.08
+VIX - CBOE Volatility Index             Open         High           Low         Close             10.95        11.65         10.71         11.56
+VXO - CBOE S&amp;P 100 Volatility Index             Open         High           Low         Close             10.55        11.25         10.27         11.25
+VXN - CBOE NASDAQ Volatility Index             Open         High           Low         Close             16.21        16.27         15.58         16.23
+EXQ - CBOE Exchange Index             Open         High           Low         Close            115.92       116.06        114.55        115.08
+CYX - CBOE China Index             Open         High           Low         Close            434.32       450.92        434.32        446.49
+ Sum of All Products
+Volume                       Call           Put         Total                        996,108       872,588     1,868,696
+Open Interest          121,381,882   104,783,128   226,165,010 Index Options
+Volume                       Call           Put         Total                        230,100       474,860       704,960Equity Options
+Volume                       Call           Put         Total                        766,008       397,328     1,163,336
+
+</text><link>http://www.reuters.com/article/2007/01/02/financial-cboe-data-idUSN0236835020070102</link><sectors></sectors><title>cboe stats - u . s . equity options daily data for dec 29</title></story></items>

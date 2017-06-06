@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:n="urn:newsml:iptc.org:20031010:NewsML" xmlns:f="http://qbeats.com/extension/functions"><header><sent>2014-04-10T08:22:50+00:00</sent><sender>AFP</sender></header><itemSet><newsItem standard="NewsML-G2" standardversion="2.12" guid="urn:newsml:afp.com:20140410T082242Z:TX-PAR-NDN89:1" xml:lang="fr"><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_19.xml"/><rightsInfo><copyrightHolder literal="AFP"/></rightsInfo><itemMeta><itemClass qcode="ninat:text"/><provider literal="afp.com"/><versionCreated>2014-04-10T08:22:36+00:00</versionCreated><ns0:story xmlns:ns0="http://qbeats.com/api/publish/0.1"><ns0:pricing strategy="dynamic"><ns0:param name="starting-price" value="0.1"/><ns0:param name="minimum-price.0.for" value="3d"/><ns0:param name="premium-for" value="0"/><ns0:param name="minimum-price.0.value" value="0.02"/><ns0:param name="expected-value-time" value="3d"/></ns0:pricing><ns0:publications><ns0:publication>AFP-ALL</ns0:publication><ns0:publication>AFP-BUSINESS-FINANCE-French</ns0:publication><ns0:publication>AFP-CURRENCIES-COMMODITIES-French</ns0:publication><ns0:publication>AFP-ALL-French</ns0:publication></ns0:publications></ns0:story></itemMeta><contentMeta><urgency>4</urgency><contentCreated>2014-04-10T08:22:36+00:00</contentCreated><creator literal=""/><language tag="fr"/><headline>Chine: exportations et importations trébuchent en mars, à la surprise du marché</headline><description/><subject type="cpnat:abstract" qcode="subj:04000000"/><subject type="cpnat:abstract" qcode="subj:04008004"/><subject type="cpnat:abstract" qcode="subj:04000000"/><subject type="cpnat:abstract" qcode="subj:04008000"/><subject type="cpnat:abstract" qcode="subj:04017000"/><keyword relevance="100">commerce</keyword><keyword relevance="100">indicateur</keyword><keyword relevance="100">Chine</keyword><keyword role="entity:location" relevance="100">CHN</keyword><keyword role="entity:location" relevance="100">Pékin</keyword></contentMeta><contentSet><inlineXML contenttype="application/nitf+xml">
+<nitf xmlns="http://iptc.org/std/NITF/2006-10-18/">
+<body>
+<body.content>
+<p>La Chine a vu ses exportations et importations reculer nettement en mars, à rebours des prévisions des marchés, selon les chiffres publiés jeudi par les douanes, qui ont mis en avant une concurrence internationale accrue et des "frictions" avec ses partenaires commerciaux.</p>
+<p>Les exportations de la deuxième économie mondiale ont baissé de 6,6% sur un an le mois dernier, à 170,1 milliards de dollars, tandis que ses importations chutaient de 11,3% sur un an, à 162,4 milliards de dollars.</p>
+<p>Ces chiffres sont très en-deçà des prévisions du panel de 16 analystes interrogés par l'agence Dow Jones, qui tablaient sur des progressions de 4,2% des exportations et de 2,8% des importations.</p>
+<p>La Chine a au final enregistré en mars un excédent commercial de 7,71 milliards de dollars, après un déficit commercial surprise de près de 23 milliards en février --le premier depuis 11 mois sur fond de congés du Nouvel an lunaire.</p>
+<p>Les statistiques décevantes de mars constituent cependant un nouveau signal d'alarme pour la Chine, alors que son activité manufacturière se contracte depuis plusieurs mois et que la consommation intérieure piétine.</p>
+<hl2>--Frictions commerciales--</hl2>
+<p>L'administration des douanes a elle-même reconnu jeudi les vents contraires auxquel est confronté le commerce extérieur du géant asiatique.</p>
+<p>"La Chine voit ses avantages compétitifs éclipsés par des facteurs négatifs, dont la concurrence montante des pays voisins et des frictions commerciales avec ses principaux partenaires", a commenté un porte-parole, Zheng Yuesheng, dans une allusion aux contentieux en cours avec les Etats-Unis et l'Union européenne.</p>
+<p>Sur les trois premiers mois de l'année, les exportations ont reculé de 3,4% par rapport à la même période de l'an dernier, et les importations ont progressé d'un maigre 1,6%, tandis que l'excédent commercial fondait à 16,7 milliards de dollars contre 43,1 milliards un an auparavant.</p>
+<p>"Mais il reste encore possible de concrétiser notre objectif d'une hausse annuelle de 7,5% de notre commerce extérieur" en 2014, a poursuivi M. Zheng, cité dans un communiqué, assurant que le repli du premier trimestre sera "temporaire".</p>
+<p>De leur côté, les analystes faisaient également preuve d'une grande prudence, rappelant les surfacturations massivement pratiquées l'an dernier par les entreprises exportatrices, désireuses de camoufler ainsi des flux de capitaux spéculatifs.</p>
+<p>Ce phénomène "a gonflé artificiellement la base de comparaison", ce qui relativise les baisses annoncées, ont averti Liu Li-Gang et Zhou Hao, experts de la banque ANZ. </p>
+<p>"Si on prend en compte ce problème des surfacturations", que Pékin s'était appliqué à endiguer à la mi-2013, "la véritable croissance des exportations pourrait avoir été de 5% ou 8% sur un an en mars", abonde Zhang Zhiwei, analyste de Nomura.</p>
+<hl2>--Une demande intérieure morose--</hl2>
+<p>Mais chez ANZ, on notait également le tableau "peu enthousiasmant" de la demande chinoise de matières premières, et ce en dépit d'un bond de 14,6% sur un an des importations de minerai de fer.</p>
+<p>De l'avis général, la détérioration des importations, symptôme d'une demande intérieure morose, devrait rester source de préoccupation.</p>
+<p>"Les importations devraient rester relativement contenues (dans les prochains mois), car le ralentissement des investissement va probablement plomber les importations de matières premières et de biens d'équipement", a souligné Julian Evans-Pritchard, expert de Capital Economics.</p>
+<p>Certes, le mini-plan de relance adopté la semaine dernière par Pékin, via des exemptions fiscales et des programmes de rénovation urbaine, a un peu rasséréné les marchés.</p>
+<p>Mais si les autorités disent "avoir les moyens de faire face aux écueils", il ne faut pas s'attendre dans l'immédiat à de nouvelles mesures significatives de soutien à l'économie, a prévenu jeudi le Premier ministre Li Keqiang.</p>
+<p>"Nous n'allons pas (à nouveau) recourir à des mesures de stimulation à court terme au gré des fluctuations de l'économie, (car) nous attachons de l'importance aux développements de fond à moyen et à long terme", a-t-il expliqué depuis le Forum asiatique, à Bo'ao (sud de la Chine).</p>
+<p>Pékin affiche depuis l'an dernier son intention de réorienter le modèle économique chinois vers la consommation intérieure, au détriment des investissements dans les infrastructures et d'un secteur industriel en sévère surcapacité --mais tout en soutenant la croissance du pays.</p>
+<p>Le pays a enregistré en 2013 une croissance économique de 7,7%, reproduisant sa performance de 2012 --la plus faible depuis 13 ans--, et le gouvernement s'est fixé pour 2014 un objectif de 7,5%.</p>
+<p>jug/ple/php</p>
+</body.content>
+</body>
+</nitf>
+</inlineXML></contentSet></newsItem></itemSet></newsMessage>
+<?xml version='1.0' encoding='utf-8'?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:n="urn:newsml:iptc.org:20031010:NewsML" xmlns:f="http://qbeats.com/extension/functions"><header><sent>2014-04-10T08:37:26+00:00</sent><sender>AFP</sender></header><itemSet><newsItem standard="NewsML-G2" standardversion="2.12" guid="urn:newsml:afp.com:20140410T083720Z:TX-PAR-NDO75:1" xml:lang="fr"><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_19.xml"/><rightsInfo><copyrightHolder literal="AFP"/></rightsInfo><itemMeta><itemClass qcode="ninat:text"/><provider literal="afp.com"/><versionCreated>2014-04-10T08:37:08+00:00</versionCreated><ns0:story xmlns:ns0="http://qbeats.com/api/publish/0.1"><ns0:pricing strategy="dynamic"><ns0:param name="starting-price" value="0.1"/><ns0:param name="minimum-price.0.for" value="3d"/><ns0:param name="premium-for" value="0"/><ns0:param name="minimum-price.0.value" value="0.02"/><ns0:param name="expected-value-time" value="3d"/></ns0:pricing><ns0:publications><ns0:publication>AFP-ALL</ns0:publication><ns0:publication>AFP-GOVERNMENT-POLITICS-French</ns0:publication><ns0:publication>AFP-ALL-French</ns0:publication></ns0:publications></ns0:story></itemMeta><contentMeta><urgency>4</urgency><contentCreated>2014-04-10T08:37:08+00:00</contentCreated><creator literal=""/><language tag="fr"/><headline>Norvège: le mystérieux étranger amnésique prudent sur la piste tchèque</headline><description/><subject type="cpnat:abstract" qcode="subj:02003002"/><subject type="cpnat:abstract" qcode="subj:14017000"/><subject type="cpnat:abstract" qcode="subj:14017001"/><subject type="cpnat:abstract" qcode="subj:02000000"/><subject type="cpnat:abstract" qcode="subj:14006000"/><subject type="cpnat:abstract" qcode="subj:02003000"/><subject type="cpnat:abstract" qcode="subj:02001000"/><subject type="cpnat:abstract" qcode="subj:16000000"/><subject type="cpnat:abstract" qcode="subj:16002000"/><subject type="cpnat:abstract" qcode="subj:14000000"/><subject type="cpnat:abstract" qcode="subj:02003001"/><keyword relevance="100">Norvège</keyword><keyword relevance="100">Tchèques</keyword><keyword relevance="100">police</keyword><keyword relevance="100">disparition</keyword><keyword relevance="100">enquête</keyword><keyword relevance="100">famille</keyword><keyword relevance="100">crime</keyword><keyword role="entity:location" relevance="100">NOR</keyword><keyword role="entity:location" relevance="100">Oslo</keyword></contentMeta><contentSet><inlineXML contenttype="application/nitf+xml">
+<nitf xmlns="http://iptc.org/std/NITF/2006-10-18/">
+<body>
+<body.content>
+<p>Le mystérieux étranger amnésique, que la police norvégienne peine à identifier depuis quatre mois, a affiché sa prudence jeudi au lendemain de l'annonce qu'il avait été reconnu par un couple tchèque.</p>
+<p>"Ce sont juste les allégations de quelqu'un. Je ne peux pas placer tous mes espoirs là-dessus parce que cela pourrait s'avérer inexact", a déclaré à l'AFP celui qui se fait appeler "John Smith", faute apparemment de connaître son véritable nom.</p>
+<p>Après presque quatre mois de vaines recherches, la police norvégienne a annoncé mercredi soir avoir été informée via Interpol que l'inconnu avait été identifié par la police en République tchèque sur la foi des déclarations d'un couple vivant dans ce pays.</p>
+<p>Ce développement fait suite à la diffusion mardi par la police d'Oslo d'une photo de "John Smith" dans l'espoir de percer le mystère entourant l'identité de cet homme retrouvé par un passant le 14 décembre dans la capitale norvégienne, très affaibli, à moitié inconscient et le nez dans la neige.</p>
+<p>"Beaucoup de personnes pensent m'avoir reconnu (...) Sur la base de cette unique photo, ils pensent me connaître. Mais jusqu'à ce que cela soit convenablement vérifié, ce sont juste des allégations", a expliqué "John Smith".</p>
+<p>"J'aimerais bien sûr que cela soit vrai mais je ne peux pas m'y accrocher comme si c'était le cas", a-t-il ajouté, regrettant une annonce "prématurée" de la police norvégienne et appelant à poursuivre les recherches.</p>
+<p>Probablement originaire d'Europe centrale et âgé d'une vingtaine d'années selon les enquêteurs, il dit ne plus se rappeler ni de son nom ni de la façon dont il est arrivé en Norvège. Son souvenir le plus lointain remonte à décembre lorsqu'il s'est réveillé à l'hôpital, dit-il.</p>
+<p>Il pense avoir été "détroussé", "sexuellement agressé", "drogué", puis abandonné dans le pays scandinave où il ne croit pas être venu de son plein gré.</p>
+<p>"John Smith" devait entrer en contact jeudi avec le couple de Tchèques pour vérifier leurs dires.</p>
+<p>"On ne sait rien d'eux. On sait seulement qu'il y a deux personnes en République tchèque qui affirment être mes parents", a-t-il souligné. Mais "ce n'est pas parce que quelqu'un dit quelque chose sur cette planète que c'est nécessairement vrai".</p>
+<p>La police norvégienne n'a pu être jointe pour un commentaire.</p>
+<p>phy/efb/ros</p>
+</body.content>
+</body>
+</nitf>
+</inlineXML></contentSet></newsItem></itemSet></newsMessage>
+<?xml version='1.0' encoding='utf-8'?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:n="urn:newsml:iptc.org:20031010:NewsML" xmlns:f="http://qbeats.com/extension/functions"><header><sent>2014-04-10T08:39:45+00:00</sent><sender>AFP</sender></header><itemSet><newsItem standard="NewsML-G2" standardversion="2.12" guid="urn:newsml:afp.com:20140410T083942Z:TX-PAR-NDO86:1" xml:lang="fr"><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_19.xml"/><rightsInfo><copyrightHolder literal="AFP"/></rightsInfo><itemMeta><itemClass qcode="ninat:text"/><provider literal="afp.com"/><versionCreated>2014-04-10T08:39:25+00:00</versionCreated><ns0:story xmlns:ns0="http://qbeats.com/api/publish/0.1"><ns0:pricing strategy="dynamic"><ns0:param name="starting-price" value="0.1"/><ns0:param name="minimum-price.0.for" value="3d"/><ns0:param name="premium-for" value="0"/><ns0:param name="minimum-price.0.value" value="0.02"/><ns0:param name="expected-value-time" value="3d"/></ns0:pricing><ns0:publications><ns0:publication>AFP-ALL</ns0:publication><ns0:publication>AFP-GOVERNMENT-POLITICS-French</ns0:publication><ns0:publication>AFP-ALL-French</ns0:publication></ns0:publications></ns0:story></itemMeta><contentMeta><urgency>4</urgency><contentCreated>2014-04-10T08:39:25+00:00</contentCreated><creator literal=""/><language tag="fr"/><headline>Le père d'une fillette tuée il y a 23 ans veut rouvrir l'enquête au vu "d'éléments nouveaux"</headline><description/><subject type="cpnat:abstract" qcode="subj:02001001"/><subject type="cpnat:abstract" qcode="subj:02003002"/><subject type="cpnat:abstract" qcode="subj:14024001"/><subject type="cpnat:abstract" qcode="subj:14000000"/><subject type="cpnat:abstract" qcode="subj:02000000"/><subject type="cpnat:abstract" qcode="subj:02003001"/><subject type="cpnat:abstract" qcode="subj:14024000"/><subject type="cpnat:abstract" qcode="subj:02001000"/><keyword relevance="100">homicide</keyword><keyword relevance="100">enquête</keyword><keyword relevance="100">enfants</keyword><keyword role="entity:location" relevance="100">FRA</keyword><keyword role="entity:location" relevance="100"/><keyword role="entity:location" relevance="100">Metz</keyword></contentMeta><contentSet><inlineXML contenttype="application/nitf+xml">
+<nitf xmlns="http://iptc.org/std/NITF/2006-10-18/">
+<body>
+<body.content>
+<p>Plus de 23 ans après le meurtre non élucidé d'une fillette de dix ans, Anaïs Marcelli, son père demande la réouverture de l'instruction en raison "d'éléments nouveaux" incriminant un proche de la famille, a-t-on appris jeudi de son avocat.</p>
+<p>"J'ai des éléments nouveaux que je pense consistants, sérieux et pertinents", a déclaré à l'AFP Me Thierry Moser, sans vouloir les divulguer à la presse pour éviter que "le suspect soit au parfum".</p>
+<p>Ces éléments nouveaux portent sur un membre de la famille d'Anaïs, qui avait été "dans le collimateur" de la justice au début de l'affaire mais qui n'a jamais été mis en examen faute de charges suffisantes, a précisé l'avocat.</p>
+<p>Me Moser a ajouté avoir "relativement bon espoir" qu'aboutisse sa demande de réouverture de l'enquête, déposée auprès du procureur de la République de Mulhouse (Haut-Rhin).</p>
+<p>Anaïs Marcelli avait été enlevée en janvier 1991 à la sortie de l'école à Mulhouse. Trois mois plus tard, son corps était retrouvé par un randonneur au sommet du col de Bussang dans les Vosges. La petite fille avait été étranglée.</p>
+<p>Deux premières instructions s'étaient soldées par des non-lieux, en 1997 puis en 2002 après la mort d'un autre suspect aux Pays-Bas.</p>
+<p>etb/yo/jmg</p>
+</body.content>
+</body>
+</nitf>
+</inlineXML></contentSet></newsItem></itemSet></newsMessage>
+<?xml version='1.0' encoding='utf-8'?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:n="urn:newsml:iptc.org:20031010:NewsML" xmlns:f="http://qbeats.com/extension/functions"><header><sent>2014-04-10T08:28:36+00:00</sent><sender>AFP</sender></header><itemSet><newsItem standard="NewsML-G2" standardversion="2.12" guid="urn:newsml:afp.com:20140410T082829Z:TX-PAR-NDO27:1" xml:lang="fr"><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_19.xml"/><rightsInfo><copyrightHolder literal="AFP"/></rightsInfo><itemMeta><itemClass qcode="ninat:text"/><provider literal="afp.com"/><versionCreated>2014-04-10T08:28:12+00:00</versionCreated><ns0:story xmlns:ns0="http://qbeats.com/api/publish/0.1"><ns0:pricing strategy="dynamic"><ns0:param name="starting-price" value="0.1"/><ns0:param name="minimum-price.0.for" value="3d"/><ns0:param name="premium-for" value="0"/><ns0:param name="minimum-price.0.value" value="0.02"/><ns0:param name="expected-value-time" value="3d"/></ns0:pricing><ns0:publications><ns0:publication>AFP-ALL</ns0:publication><ns0:publication>AFP-BUSINESS-FINANCE-French</ns0:publication><ns0:publication>AFP-ALL-French</ns0:publication></ns0:publications></ns0:story></itemMeta><contentMeta><urgency>4</urgency><contentCreated>2014-04-10T08:28:12+00:00</contentCreated><creator literal=""/><language tag="fr"/><headline>L'ESSENTIEL DE L'ACTUALITÉ ÉCONOMIQUE A 10H20</headline><description/><subject type="cpnat:abstract" qcode="subj:04000000"/><keyword relevance="100">économie</keyword><keyword relevance="100">actualité</keyword><keyword role="entity:location" relevance="100">FRA</keyword><keyword role="entity:location" relevance="100">Paris</keyword></contentMeta><contentSet><inlineXML contenttype="application/nitf+xml">
+<nitf xmlns="http://iptc.org/std/NITF/2006-10-18/">
+<body>
+<body.content>
+<p>Le point de l'actualité économique de ce jeudi à 10H20 (08H20 GMT)</p>
+<p/>
+<p>============= PRINCIPAUX TITRES ============</p>
+<p/>
+<p>La Grèce revient sur les marchés, après quatre ans d'absence, via une émission d'obligations de 2,5 mds EUR</p>
+<p>- explosion d'une voiture piégée à Athènes devant la Banque de Grèce, pas de victime</p>
+<p/>
+<p>Déflation, croissance, Ukraine: les ministres des Finances des pays du G20, en quête de solutions, se retrouvent à Washington</p>
+<p/>
+<p>Chine: fort recul inattendu des exportations (-6,6%) et importations (-11,3%) en mars</p>
+<p/>
+<p>France</p>
+<p>- légère augmentation des prix en mars (0,4%), mais l'inflation reste basse sur un an (0,6%)</p>
+<p>- la production industrielle quasiment stable (+0,1%) en février</p>
+<p/>
+<p>Pays-Bas: l'inflation en mars au plus bas depuis juin 2010 (0,8%)</p>
+<p/>
+<p>Italie: la production industrielle en baisse de 0,5% en février sur un mois (Istat)</p>
+<p/>
+<p>BFA-Bankia a vendu sa participation dans Iberdrola pour 1,527 md EUR</p>
+<p/>
+<p>LVMH grimpe en Bourse et entraîne Kering grâce à la bonne tenue de ses ventes en maroquinerie au 1T</p>
+<p/>
+<p>Traitement de choc pour Sequana: cessions d'usines et augmentation de capital après une perte nette 2013 creusée à 301 M EUR</p>
+<p/>
+<p>Carrefour: ventes en recul de 5,2% au 1T (+3,7% en organique) à 19,7 mds EUR</p>
+<p/>
+<p>RBS va pouvoir reprendre le versement de dividendes</p>
+<p/>
+<p/>
+<hl2>A SUIVRE </hl2>
+<p/>
+<p>ECONOMIE</p>
+<p>========</p>
+<p>France:</p>
+<p>- indice des prix dans la grande distribution mars (12H00) - Insee</p>
+<p>- indice des prix des logements neufs et anciens au 4T 2013 (12H00) - Insee</p>
+<p>BCE: publication du rapport mensuel</p>
+<p>Opep: publication du rapport mensuel de l'Organisation des pays exportateurs de pétrole</p>
+<p>USA: prix à l'importation mars (14H30)</p>
+<p>- demandes hebdomadaires d'allocations chômage (14H30)</p>
+<p>- chiffres de l'exécution budgétaire mars (20H00)</p>
+<p>- conférence de presse d'ouverture de l'assemblée semestrielle du FMI par la directrice générale Christine Lagarde (14H45)</p>
+<p>- conférence de presse du président de la Banque Mondiale Jim Yong Kim avant les réunions de printemps du FMI et de la BM (15H30) </p>
+<p>Allemagne: prévisions de croissance du PIB des principaux instituts de recherche économique allemands (11H00)</p>
+<p/>
+<p>ENTREPRISES</p>
+<p>==========</p>
+<p/>
+<p>LVHM : assemblée générale mixte (10H30)</p>
+<p>Thales : journée investisseurs</p>
+<p>Kaufman &amp; Broad: résultats 1T (après Bourse)</p>
+<p>Nestlé : assemblée générale annuelle des actionnaires (11H00)</p>
+<p/>
+<p>deskéco-ggy/php</p>
+<p/>
+<p/>
+<p/>
+<p>
+<org idsrc="isin" value="ES0144580018">IBERDROLA</org>
+</p>
+<p>
+<org idsrc="isin" value="FR0000121014">LVMH</org>
+</p>
+<p>
+<org idsrc="isin" value="FR0000121485">KERING</org>
+</p>
+<p>
+<org idsrc="isin" value="FR0011352590">SEQUANA</org>
+</p>
+<p>
+<org idsrc="isin" value="FR0000120172">CARREFOUR</org>
+</p>
+<p>
+<org idsrc="isin" value="GB00B7T77214">ROYAL BANK OF SCOTLAND GROUP</org>
+</p>
+<p>
+<org idsrc="isin" value="FR0000121329">THALES</org>
+</p>
+<p>
+<org idsrc="isin" value="FR0004007813">KAUFMAN &amp; BROAD SA</org>
+</p>
+<p>
+<org idsrc="isin" value="CH0038863350">NESTLE</org>
+</p>
+<p/>
+</body.content>
+</body>
+</nitf>
+</inlineXML></contentSet></newsItem></itemSet></newsMessage>
+<?xml version='1.0' encoding='utf-8'?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:n="urn:newsml:iptc.org:20031010:NewsML" xmlns:f="http://qbeats.com/extension/functions"><header><sent>2014-04-10T08:33:57+00:00</sent><sender>AFP</sender></header><itemSet><newsItem standard="NewsML-G2" standardversion="2.12" guid="urn:newsml:afp.com:20140410T083350Z:TX-PAR-NDO55:1" xml:lang="fr"><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_19.xml"/><rightsInfo><copyrightHolder literal="AFP"/></rightsInfo><itemMeta><itemClass qcode="ninat:text"/><provider literal="afp.com"/><versionCreated>2014-04-10T08:33:42+00:00</versionCreated><ns0:story xmlns:ns0="http://qbeats.com/api/publish/0.1"><ns0:pricing strategy="dynamic"><ns0:param name="starting-price" value="0.1"/><ns0:param name="minimum-price.0.for" value="3d"/><ns0:param name="premium-for" value="0"/><ns0:param name="minimum-price.0.value" value="0.02"/><ns0:param name="expected-value-time" value="3d"/></ns0:pricing><ns0:publications><ns0:publication>AFP-ALL</ns0:publication><ns0:publication>AFP-STOCK-MARKET-NEWS-French</ns0:publication><ns0:publication>AFP-GOVERNMENT-POLITICS-French</ns0:publication><ns0:publication>AFP-BUSINESS-FINANCE-French</ns0:publication><ns0:publication>AFP-ALL-French</ns0:publication></ns0:publications></ns0:story></itemMeta><contentMeta><urgency>4</urgency><contentCreated>2014-04-10T08:33:42+00:00</contentCreated><creator literal=""/><language tag="fr"/><headline>Japon: les grands magasins subissent le contre-coup de la hausse de la "TVA japonaise"</headline><description/><subject type="cpnat:abstract" qcode="subj:11013000"/><subject type="cpnat:abstract" qcode="subj:04016055"/><subject type="cpnat:abstract" qcode="subj:04007000"/><subject type="cpnat:abstract" qcode="subj:04000000"/><subject type="cpnat:abstract" qcode="subj:04008000"/><subject type="cpnat:abstract" qcode="subj:04000000"/><subject type="cpnat:abstract" qcode="subj:11000000"/><subject type="cpnat:abstract" qcode="subj:04017000"/><subject type="cpnat:abstract" qcode="subj:11006000"/><keyword relevance="100">fiscalité</keyword><keyword relevance="100">consommation</keyword><keyword relevance="100">distribution</keyword><keyword role="entity:location" relevance="100">JPN</keyword><keyword role="entity:location" relevance="100">Tokyo</keyword></contentMeta><contentSet><inlineXML contenttype="application/nitf+xml">
+<nitf xmlns="http://iptc.org/std/NITF/2006-10-18/">
+<body>
+<body.content>
+<p>Les ventes des grandes surfaces japonaises subissent depuis le 1er avril le contrecoup de la hausse de 3 points de la taxe sur la consommation, mais cela touche surtout les produits chers et durables, selon les premiers chiffres disponibles.</p>
+<p>D'après les informations communiquées aux médias par les grands magasins Takashimaya, leurs ventes entre le 1er et le 7 avril ont été de 25% inférieures à celles de la même période de 2013.</p>
+<p>"Il sera difficile de recouvrer le niveau de l'an passé d'ici à cet été et cela aura sans doute des effets toute l'année", a confié le patron de Takashimaya lors d'une conférence de presse.</p>
+<p>Les ventes de ces magasins de luxe avaient bondi de 32% en mars sur un an, plus que prévu. Du coup, après une ruée sur les bagues, sacs à main et autres articles de plaisir plus que de besoin, la chute est sévère. </p>
+<p>Ce sont en effet les bijoux et produits de luxe qui pâtissent le plus de ce contrecoup, ceux qui voulaient en acquérir l'ayant fait avant que cette taxe (équivalente de la TVA française) ne passe de 5% à 8%.</p>
+<p>Chez les concurrents, Mitsukoshi, Isetan ou encore Sogo-Seibu, la baisse se situe entre 10 et 20%, mais les plus optimistes espèrent que le rattrapage se fera en quelques mois.</p>
+<p>Bic Camera, grand distributeur d'électronique et électroménager, a fait part d'une baisse de 10 à 20% en ce début de mois, mais c'est presque deux fois moins que redouté, selon un responsable.</p>
+<p>Dans les boutiques de vêtements et accessoires de moyenne gamme, le déclin serait inférieur à 10%, "en ligne avec les attentes du fait du surcroît d'achat avant", selon un dirigeant de l'enseigne Parco.</p>
+<hl2>- stocks pour 60 jours -</hl2>
+<p/>
+<p>Parce que des clients sont allés jusqu'à faire des stocks de produits de première nécessité à conserver longtemps (riz, eau, papier toilette, conserves), une baisse franche a aussi été constatée dans des hypers et supermarchés. C'est par exemple le cas dans la chaîne Daiei (groupe Aeon) qui a fait état mercredi d'un recul de 8% sur un an pour la période du 1er au 7 avril.  </p>
+<p>"De nombreux clients ont fait des provisions pour 45 à 60 jours, donc la baisse ne devrait pas durer au-delà", a prédit un dirigeant de Daiei en conférence de presse.</p>
+<p>Dans les supérettes de proximité extrêmement fréquentées, où sont essentiellement vendus des produits en petites quantités à consommer vite, "l'impact est relativement faible puisque ces commerces n'ont pas d'articles durables ni luxueux contrairement aux grands magasins", souligne un analyste de SMBC cité par le groupe d'information économique Nikkei. Un repli est néanmoins constaté à cause des clients fumeurs qui ont acheté des cargaisons de cigarettes avant le 1er avril.</p>
+<p>Quelle que soit leur surface et type d'offre, tous les commerces tentent de limiter la chute des ventes par diverses stratégies, de la distribution de coupons de réduction à la refonte totale de la grille tarifaire où certains produits sont même bien moins chers qu'avant.</p>
+<p>kap/pn/cj</p>
+<p>
+<org idsrc="isin" value="JP3456000003">TAKASHIMAYA</org>
+</p>
+<p>
+<org idsrc="isin" value="JP3894900004">ISETAN MITSUKOSHI HOLDINGS</org>
+</p>
+<p>
+<org idsrc="isin" value="JP3480200009">DAIEI</org>
+</p>
+<p>
+<org idsrc="isin" value="JP3386200002">AEON</org>
+</p>
+<p/>
+</body.content>
+</body>
+</nitf>
+</inlineXML></contentSet></newsItem></itemSet></newsMessage>
+<?xml version='1.0' encoding='utf-8'?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:n="urn:newsml:iptc.org:20031010:NewsML" xmlns:f="http://qbeats.com/extension/functions"><header><sent>2014-04-10T08:36:52+00:00</sent><sender>AFP</sender></header><itemSet><newsItem standard="NewsML-G2" standardversion="2.12" guid="urn:newsml:afp.com:20140410T083647Z:TX-PAR-NDO67:1" xml:lang="fr"><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_19.xml"/><rightsInfo><copyrightHolder literal="AFP"/></rightsInfo><itemMeta><itemClass qcode="ninat:text"/><provider literal="afp.com"/><versionCreated>2014-04-10T08:36:25+00:00</versionCreated><ns0:story xmlns:ns0="http://qbeats.com/api/publish/0.1"><ns0:pricing strategy="dynamic"><ns0:param name="starting-price" value="0.1"/><ns0:param name="minimum-price.0.for" value="3d"/><ns0:param name="premium-for" value="0"/><ns0:param name="minimum-price.0.value" value="0.02"/><ns0:param name="expected-value-time" value="3d"/></ns0:pricing><ns0:publications><ns0:publication>AFP-ALL</ns0:publication><ns0:publication>AFP-GOVERNMENT-POLITICS-French</ns0:publication><ns0:publication>AFP-ALL-French</ns0:publication></ns0:publications></ns0:story></itemMeta><contentMeta><urgency>4</urgency><contentCreated>2014-04-10T08:36:25+00:00</contentCreated><creator literal=""/><language tag="fr"/><headline>Syrie: Les jihadistes de l'EIIL entrent dans une ville frontalière avec l'Irak</headline><description/><subject type="cpnat:abstract" qcode="subj:16000000"/><keyword relevance="100">Syrie</keyword><keyword relevance="100">conflit</keyword><keyword relevance="100">Irak</keyword><keyword relevance="100">combats</keyword><keyword relevance="100">islamistes</keyword><keyword role="entity:location" relevance="100">LBN</keyword><keyword role="entity:location" relevance="100">Beyrouth</keyword></contentMeta><contentSet><inlineXML contenttype="application/nitf+xml">
+<nitf xmlns="http://iptc.org/std/NITF/2006-10-18/">
+<body>
+<body.content>
+<p>Les jihadistes de l'État islamique en Irak et au Levant (EIIL) ont pénétré jeudi dans la ville frontalière Boukamal et avancent vers le poste frontière afin de faire la jonction avec leurs frères d'armes en Irak, selon une ONG. </p>
+<p>"Depuis l'aube, il y a de violents combats à l'intérieur de Boukamal. L'EIIL avance et s'est emparé de plusieurs quartiers de cette ville qui était jusqu'à présent contrôlés par le Front al-Nosra et de brigades islamistes", a affirmé à l'AFP le directeur de l'Observatoire syrien des droits de l'homme (OSDH), Rami Abdel Rahmane.</p>
+<p>Les combats ont fait, selon l'OSDH, 24 morts dans les deux camps. Depuis janvier, les rebelles islamistes et le Front al-Nosra qui est la branche syrienne d'Al-Qaïda sont en guerre contre leur ancien allié, l'EIIL, une organisation jihadiste ultra-radicale et d'une brutalité inouïe.</p>
+<p>Située dans la province de Deir Ezzor, cette ville frontalière, qui comptait 70.000 habitants avant le soulèvement, est tombée définitivement aux mains de la rébellion en novembre 2012 après plusieurs tentatives du régime de la reprendre en main. L'EIIL avait été chassé de cette province le 10 février 2014.</p>
+<p>Mais depuis peu, cette organisation tente de reprendre pied dans cette province riche en pétrole et en gaz. Elle avance sur trois axes, au nord à partir de la province de Hassaké, au sud à partir du désert et à l'est à partir de la frontière irakienne.</p>
+<p>kam/sk/hj</p>
+</body.content>
+</body>
+</nitf>
+</inlineXML></contentSet></newsItem></itemSet></newsMessage>
+<?xml version='1.0' encoding='utf-8'?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:n="urn:newsml:iptc.org:20031010:NewsML" xmlns:f="http://qbeats.com/extension/functions"><header><sent>2014-04-10T08:29:50+00:00</sent><sender>AFP</sender></header><itemSet><newsItem standard="NewsML-G2" standardversion="2.12" guid="urn:newsml:afp.com:20140410T082947Z:TX-PAR-NDO37:1" xml:lang="fr"><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_19.xml"/><rightsInfo><copyrightHolder literal="AFP"/></rightsInfo><itemMeta><itemClass qcode="ninat:text"/><provider literal="afp.com"/><versionCreated>2014-04-10T08:29:30+00:00</versionCreated><ns0:story xmlns:ns0="http://qbeats.com/api/publish/0.1"><ns0:pricing strategy="dynamic"><ns0:param name="starting-price" value="0.1"/><ns0:param name="minimum-price.0.for" value="3d"/><ns0:param name="premium-for" value="0"/><ns0:param name="minimum-price.0.value" value="0.02"/><ns0:param name="expected-value-time" value="3d"/></ns0:pricing><ns0:publications><ns0:publication>AFP-ALL</ns0:publication><ns0:publication>AFP-STOCK-MARKET-NEWS-French</ns0:publication><ns0:publication>AFP-GOVERNMENT-POLITICS-French</ns0:publication><ns0:publication>AFP-BUSINESS-FINANCE-French</ns0:publication><ns0:publication>AFP-CURRENCIES-COMMODITIES-French</ns0:publication><ns0:publication>AFP-ALL-French</ns0:publication></ns0:publications></ns0:story></itemMeta><contentMeta><urgency>4</urgency><contentCreated>2014-04-10T08:29:30+00:00</contentCreated><creator literal=""/><language tag="fr"/><headline>Gazprom achète l'opérateur gazier du Kirghizstan pour un dollar</headline><description/><subject type="cpnat:abstract" qcode="subj:04005011"/><subject type="cpnat:abstract" qcode="subj:04016005"/><subject type="cpnat:abstract" qcode="subj:11006000"/><subject type="cpnat:abstract" qcode="subj:04005000"/><subject type="cpnat:abstract" qcode="subj:04000000"/><subject type="cpnat:abstract" qcode="subj:04000000"/><subject type="cpnat:abstract" qcode="subj:04016029"/><subject type="cpnat:abstract" qcode="subj:04000000"/><subject type="cpnat:abstract" qcode="subj:11000000"/><keyword relevance="100">Kirghizstan</keyword><keyword relevance="100">Russie</keyword><keyword relevance="100">énergie</keyword><keyword relevance="100">gaz</keyword><keyword relevance="100">acquisition</keyword><keyword relevance="100">gouvernement</keyword><keyword role="entity:location" relevance="100">KGZ</keyword><keyword role="entity:location" relevance="100">Bichkek</keyword></contentMeta><contentSet><inlineXML contenttype="application/nitf+xml">
+<nitf xmlns="http://iptc.org/std/NITF/2006-10-18/">
+<body>
+<body.content>
+<p>Le géant russe Gazprom a mis la main jeudi sur l'opérateur public du Kirghizstan pour un dollar symbolique, promettant à la république d'Asie centrale une baisse des prix et des investissements pour développer la production.</p>
+<p>L'accord a été signé à Bichkek par le patron du groupe public russe Alexeï Miller et celui de Khirghizgaz, qui va être rebaptisé Gazprom-Kirghizstan, Tourgounbek Koulmourzaev. </p>
+<p>En échange, Gazprom reprend à son compte 40 millions de dollars de dette et s'engage à investir dans la modernisation de l'entreprise 20 milliards de roubles sur cinq ans (400 millions d'euros).</p>
+<p>"S'il le faut, nous sommes prêts à dépenser plus", a assuré M. Miller, qui a également promis que le prix du gaz pour la population serait abaissé.</p>
+<p>Ex-république soviétique en Asie centrale, le Kirghizstan importe actuellement la plus grande partie de son gaz, mais le pays dispose de réserves estimées à six milliards de mètres cubes.</p>
+<p>"Nous lancerons rapidement les travaux d'exploration", a assuré M. Miller. "Il faut augmenter la production, qui actuellement ne dépasse pas 30 millions de mètres cubes" par an.</p>
+<p>tol-gmo/lpt/ia</p>
+</body.content>
+</body>
+</nitf>
+</inlineXML></contentSet></newsItem></itemSet></newsMessage>
+<?xml version='1.0' encoding='utf-8'?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:n="urn:newsml:iptc.org:20031010:NewsML" xmlns:f="http://qbeats.com/extension/functions"><header><sent>2014-04-10T08:37:30+00:00</sent><sender>AFP</sender></header><itemSet><newsItem standard="NewsML-G2" standardversion="2.12" guid="urn:newsml:afp.com:20140410T083724Z:TX-PAR-NDO76:3" xml:lang="fr"><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_19.xml"/><rightsInfo><copyrightHolder literal="AFP"/></rightsInfo><itemMeta><itemClass qcode="ninat:text"/><provider literal="afp.com"/><versionCreated>2014-04-10T08:37:10+00:00</versionCreated><ns0:story xmlns:ns0="http://qbeats.com/api/publish/0.1"><ns0:pricing strategy="dynamic"><ns0:param name="starting-price" value="0.1"/><ns0:param name="minimum-price.0.for" value="3d"/><ns0:param name="premium-for" value="0"/><ns0:param name="minimum-price.0.value" value="0.02"/><ns0:param name="expected-value-time" value="3d"/></ns0:pricing><ns0:publications><ns0:publication>AFP-ALL</ns0:publication><ns0:publication>AFP-STOCK-MARKET-NEWS-French</ns0:publication><ns0:publication>AFP-BUSINESS-FINANCE-French</ns0:publication><ns0:publication>AFP-CURRENCIES-COMMODITIES-French</ns0:publication><ns0:publication>AFP-ALL-French</ns0:publication></ns0:publications></ns0:story></itemMeta><contentMeta><urgency>4</urgency><contentCreated>2014-04-10T08:37:10+00:00</contentCreated><creator literal=""/><language tag="fr"/><headline>BFA-Bankia a vendu sa participation dans Iberdrola pour 1,527 md EUR</headline><description/><subject type="cpnat:abstract" qcode="subj:04006002"/><subject type="cpnat:abstract" qcode="subj:04016005"/><subject type="cpnat:abstract" qcode="subj:04005000"/><subject type="cpnat:abstract" qcode="subj:04005006"/><subject type="cpnat:abstract" qcode="subj:04005004"/><subject type="cpnat:abstract" qcode="subj:04005000"/><subject type="cpnat:abstract" qcode="subj:04000000"/><subject type="cpnat:abstract" qcode="subj:04000000"/><subject type="cpnat:abstract" qcode="subj:04016029"/><subject type="cpnat:abstract" qcode="subj:04000000"/><subject type="cpnat:abstract" qcode="subj:04006000"/><keyword relevance="100">pétrole</keyword><keyword relevance="100">acquisition</keyword><keyword relevance="100">énergie</keyword><keyword relevance="100">électricité</keyword><keyword relevance="100">banque</keyword><keyword relevance="100">gaz</keyword><keyword role="entity:location" relevance="100">ESP</keyword><keyword role="entity:location" relevance="100"/><keyword role="entity:location" relevance="100">Madrid</keyword></contentMeta><contentSet><inlineXML contenttype="application/nitf+xml">
+<nitf xmlns="http://iptc.org/std/NITF/2006-10-18/">
+<body>
+<body.content>
+<p>Le groupe BFA-Bankia, sauvé de la faillite par une aide européenne de plus de 20 milliards d'euros, a annoncé jeudi avoir vendu sa participation de 4,94% dans le géant énergétique espagnol Iberdrola pour 1,527 milliard d'euros, avec une plus-value de 266 millions d'euros.</p>
+<p>Les 314,888 millions de titres d'Iberdrola ont été vendus à 4,85 euros l'unité, soit en dessous du cours de clôture de 5,002 euros de la veille, ont précisé les banques Citigroup et UBS dans un communiqué transmis par l'organe de contrôle de la Bourse de Madrid, la CNMV.</p>
+<p>A la reprise de cotation, le titre perdait 3,04% à 4,85 euros, dans un marché en baisse de 0,25%.</p>
+<p>Toutefois, le titre Iberdrola affichait une hausse sur l'année de 4,64%, dans un marché favorable, en hausse de 5,46% depuis le début de l'année.</p>
+<p>Cette opération, annoncée la veille, s'inscrit "dans le cadre du plan stratégique 2012-2015" de la quatrième banque espagnole par la capitalisation qui prévoit la vente des actifs considérés comme non stratégiques pour le groupe, a précisé le groupe dans un communiqué. </p>
+<p>Il s'agit de la plus importante vente d'actifs de Bankia depuis sa restructuration après son sauvetage en 2012.</p>
+<p>Selon son site internet, Bankia a déjà vendu au 18 février pour 2,4 milliards de participations dans des entreprises, dont 12% du capital de l'assureur espagnol Mapfre pour 979,4 millions d'euros en septembre et les 12,09% qu'elle détenait au capital du groupe aérien IAG (British Airways et Iberia), pour 675 millions d'euros, en juin 2013.</p>
+<p>L'Etat a amorcé le 28 février la privatisation de Bankia, près de deux ans après son sauvetage public qui avait précipité en 2012 une aide européenne au secteur bancaire espagnol de 41,3 milliards d'euros, dont environ la moitié pour Bankia.</p>
+<p>ib/smm</p>
+<p/>
+<p/>
+<p>
+<org idsrc="isin" value="ES0144580018">IBERDROLA</org>
+</p>
+<p>
+<org idsrc="isin" value="US1729671016">CITIGROUP</org>
+</p>
+<p>
+<org idsrc="isin" value="CH0024899483">UBS AG</org>
+</p>
+<p>
+<org idsrc="isin" value="ES0113307039">BANKIA</org>
+</p>
+<p>
+<org idsrc="isin" value="ES0124244E34">MAPFRE</org>
+</p>
+<p>
+<org idsrc="isin" value="ES0177542018">IAG - INTERNATIONAL CONSOLIDATED AIRLINES GROUP</org>
+</p>
+<p/>
+</body.content>
+</body>
+</nitf>
+</inlineXML></contentSet></newsItem></itemSet></newsMessage>
+<?xml version='1.0' encoding='utf-8'?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:n="urn:newsml:iptc.org:20031010:NewsML" xmlns:f="http://qbeats.com/extension/functions"><header><sent>2014-04-10T08:53:13+00:00</sent><sender>BSW</sender></header><itemSet><newsItem standard="NewsML-G2" standardversion="2.12" guid="urn:newsml:afp.com:20140410T085307Z:TX-PAR-NDP51:1" xml:lang="fr"><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_19.xml"/><rightsInfo><copyrightHolder literal="BSW"/></rightsInfo><itemMeta><itemClass qcode="ninat:text"/><provider literal="afp.com"/><versionCreated>2014-04-10T08:52:00+00:00</versionCreated><ns0:story xmlns:ns0="http://qbeats.com/api/publish/0.1"><ns0:pricing strategy="dynamic"><ns0:param name="starting-price" value="0.1"/><ns0:param name="minimum-price.0.for" value="3d"/><ns0:param name="premium-for" value="0"/><ns0:param name="minimum-price.0.value" value="0.02"/><ns0:param name="expected-value-time" value="3d"/></ns0:pricing><ns0:publications><ns0:publication>AFP-ALL</ns0:publication><ns0:publication>AFP-STOCK-MARKET-NEWS-French</ns0:publication><ns0:publication>AFP-ALL-French</ns0:publication></ns0:publications></ns0:story></itemMeta><contentMeta><urgency>5</urgency><contentCreated>2014-04-10T08:52:00+00:00</contentCreated><creator literal=""/><language tag="fr"/><headline>Communiqué par Business Wire : Menicon Co., Ltd.</headline><description/><subject type="cpnat:abstract" qcode="subj:04016000"/><keyword relevance="100">communiqué</keyword><keyword relevance="100">Business</keyword><keyword relevance="100">Wire</keyword><keyword relevance="100">MENICON</keyword><keyword relevance="100">CO.,</keyword><keyword relevance="100">LTD.</keyword><keyword relevance="100">Soccer</keyword><keyword relevance="100">Asia Pacific</keyword><keyword relevance="100">North America</keyword><keyword relevance="100">Canada</keyword><keyword relevance="100">Health</keyword><keyword relevance="100">Medical Devices</keyword><keyword relevance="100">Optical</keyword><keyword relevance="100">Manufacturing</keyword><keyword relevance="100">Other Manufacturing</keyword><keyword relevance="100">Photo/Multimedia</keyword><keyword relevance="100">Philanthropy</keyword><keyword relevance="100">Sports</keyword><keyword relevance="100">Japan</keyword><keyword relevance="100">Fund Raising</keyword><keyword role="entity:location" relevance="100">FRA</keyword><keyword role="entity:location" relevance="100">NAGOYA</keyword></contentMeta><contentSet><inlineXML contenttype="application/nitf+xml">
+<nitf xmlns="http://iptc.org/std/NITF/2006-10-18/">
+<body>
+<body.content>
+<p>Menicon Co., Ltd, principal fabricant de lentilles de contact du Japon, a récemment donné trois millions de Yens ainsi que du temps de volontariat pour la revitalisation de trois équipes de football dans la région de Tohoku, dans le cadre d’un effort continu visant à aider les communautés frappées par le tremblement de terre, le tsunami et les désastres nucléaires du 11 mars 2011.</p>
+<p>   Cette dernière donation a impliqué la construction de nouveaux gradins pour les supporters et la restauration des surfaces de jeu des terrains de football situés dans les préfectures d’Iwate, de Miyagi et de Fukushima, qui ont été sélectionnés avec l’aide de l’association du football du Japon. En plus de financer l’initiative, le personnel de Menicon s’est rendu vers le nord depuis le siège de la société à Nagoya pour participer à l’installation du gazon et des sièges.</p>
+<p>   « Cette revitalisation de notre terrain de foot est un symbole important du rétablissement de notre ville après le désastre », a déclaré Hidekiyo Tachiya, maire de Soma, une des communautés bénéficiaires. « Nous sommes profondément reconnaissants à Menicon pour cette assistance. »</p>
+<p>   Pourquoi Menicon se concentre-t-elle sur le football ? Une des priorités majeures des efforts de revitalisation est de soutenir la culture de la jeunesse dans les zones sinistrées afin de juguler le déclin démographique. Qui plus est, le football est autant un spectacle qu’un effort sportif. Il s’agit que tous les regards restent fixés sur le ballon. Et comme Menicon s’intéresse avant tout à la vision, le football est un sport que la société soutient depuis 1995 en parrainant le match est-ouest pour le club de football des moins de 15 ans au Japon, rencontre durant laquelle les équipes se disputent la Coupe Menicon.</p>
+<p>   Aux fonds donnés par Menicon sont venus s’ajouter les dons offerts par les spectateurs de la Coupe Menicon 2013 et les fans d’opéra qui ont assisté au 60anniversaire deAshita no Hitomi(Vision pour demain), une extravagance opératique commanditée par Menicon à Tokyo. Menicon est déterminée à apporter un soutien continu aux communautés affectées par le désastre du 3/11 dans les années qui viennent.</p>
+<p>   Bénéficiaires des dons</p>
+<p>   Terrain Matsukura du Centre de football de Kamaishi ; Ville de Kamaishi, Préfecture d’Iwate. Association de football de Miyagi, Centre de football de Matsushima, Préfecture de Miyagi. Terrain de football Soma Koyo, Préfecture de Fukushima.</p>
+<p>   À propos de Menicon</p>
+<p>   Sise à Nagoya, au Japon, et présente dans plus de 80 pays, la société Menicon Co., Ltd. est le seul fabricant mondial de lentilles de contact spécialisé dans tous les aspects de ce domaine, du développement des matériaux et de la conception des lentilles à leur fabrication et à leurs solutions d’entretien. Menicon propose une gamme croissante de lentilles, conditionnements et produits connexes innovants qui maximisent le confort et la commodité pour les utilisateurs. La société est également le plus grand producteur au monde de lentilles de contact perméables aux gaz.</p>
+<p>   Pour de plus amples informations, rendez-vous sur le sitemenicon.comou contactez Yoko Kido :presscontact@menicon-net.co.jp</p>
+<p>   Le texte du communiqué issu d’une traduction ne doit d’aucune manière être considéré comme officiel. La seule version du communiqué qui fasse foi est celle du communiqué dans sa langue d’origine. La traduction devra toujours être confrontée au texte source, qui fera jurisprudence.</p>
+<p/>
+<p/>
+<p>   Contact</p>
+<p>   Menicon Co., Ltd. Yoko Kido, +81-52-935-1187 Directeur Général Relations publiques, Secrétariat et Mécenat presscontact@menicon-net.co.jp</p>
+<p/>
+<p>   Ce document n'est pas un document de l'AFP et l'AFP ne peut être tenue responsable pour son contenu. Pour toute question concernant le contenu, nous vous demandons de bien vouloir contacter les personne/société indiquées dans le corps du communiqué de presse.</p>
+<p>   Fin du Communiqué Business Wire</p>
+</body.content>
+</body>
+</nitf>
+</inlineXML></contentSet></newsItem></itemSet></newsMessage>
